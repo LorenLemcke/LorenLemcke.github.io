@@ -36,7 +36,7 @@ body {
 /* Another container for adding a darkened background and making it fill the entire height */
 .container .inner {
 	height: 100%;
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.8);
 	display: table-row;  
 	text-shadow: 0px 0px 12px rgba(0, 0, 0, .2);
 }
@@ -61,12 +61,12 @@ p {
 /* Styling for social icons */
 i.fa {
 	padding: 0 8px;
-	color: #FFF;
+	color: #EEE;
 	transition: all 0.3s ease 0s;
 	-webkit-transition: all 0.3s ease 0s;
 }
 i.fa:hover {
-	color: #00C5DB;
+	color: #B20000;
 }
 
 /* Make the site look better and fit the page on mobile */
